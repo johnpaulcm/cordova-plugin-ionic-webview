@@ -704,7 +704,7 @@
     //[alertController addAction:[UIAlertAction actionWithTitle:NSLocalizedString(@"OK", nil) style:UIAlertActionStyleDefault handler:nil]];
     //[vc presentViewController:alertController animated:YES completion:nil];
 //#endif
-//}
+}
 
 - (void)webViewWebContentProcessDidTerminate:(WKWebView *)webView
 {
